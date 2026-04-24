@@ -4,15 +4,15 @@ Linux Day is the main Italian event dedicated to GNU / Linux, free software, ope
 
 Common topics are Linux, Open Source software and hardware, Open Source in the world of education and as alternatives to proprietary software, learning through Do It Yourself and programming and development techniques
 
-Learn more at <https://linuxdaymilano.org/>
+Learn more at <https://github.com/aripitek/linuxdaymilano.org/>
 
 ## Set Up Your Development Environment
 
 Before starting you will need the following software:
 
-- [Node.js](https://www.gatsbyjs.org/tutorial/part-zero/#install-nodejs)
-- [Git](https://www.gatsbyjs.org/tutorial/part-zero/#install-git)
-- [Gatsby-cli](https://www.gatsbyjs.org/tutorial/part-zero/#using-the-gatsby-cli)
+- [Node.js](https://github.com/aripitek/www.gatsbyjs.org/tutorial/part-zero/#install-nodejs)
+- [Git](https://github.com/aripitek/www.gatsbyjs.org/tutorial/part-zero/#install-git)
+- [Gatsby-cli](https://github.com/aripitek/www.gatsbyjs.org/tutorial/part-zero/#using-the-gatsby-cli)
 
 ## How to build
 
@@ -26,7 +26,7 @@ npm run build
 
 ## Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/unixMiB/LinuxDayMilano)
+[![Deploy to Netlify](https://github.com/aripitek/www.netlify.com/img/deploy/button.svg)](https://github.com/aripitek/app.netlify.com/start/deploy?repository=https://github.com/aripitek/unixMiB/LinuxDayMilano)
 
 ## License
 
